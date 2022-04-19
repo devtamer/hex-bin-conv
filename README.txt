@@ -1,9 +1,8 @@
 README
 ===========
-    Tamer Elsawaf 
-    cssc0445@edoras.sdsu.edu 
-    CS 570 Spring 2022 
-    Project #1, Hex & Binary Converter 
+    Tamer E - tamdotpy@gmail.com
+    School Project for Systems Programming
+    Hex & Binary Converter 
     README.txt
 
 File Manifest
